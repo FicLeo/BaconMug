@@ -19,8 +19,8 @@
     <!-- Nav bar -->
 
     <div class="navbar-fixed">
-        <nav style="border-bottom: 2px solid #f57c00;">
-            <div class="nav-wrapper grey darken-4">
+        <nav style="border-bottom: 2px solid #f57c00; background-image: url('../Files/Images/bg-nav.png')">
+            <div class="nav-wrapper">
                 <a href="#" class="brand-logo center">
                     <img src="http://baconmug.com.br/images/logo.png" alt="Logo">
                 </a>
